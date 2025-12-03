@@ -1,0 +1,7 @@
+export const COMMON_CODES = [
+  "100FF1000",
+  "FLAT25USD",
+  "20MAX200",
+  "40MAX200",
+  "13MAX2000",
+];
